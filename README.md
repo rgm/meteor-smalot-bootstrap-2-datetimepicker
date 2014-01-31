@@ -12,7 +12,7 @@ bootstrap-datetimepicker are with the original author.
 
 ## How to install
 1. `npm install -g meteorite` (if not already installed)
-2. `mrt add meteor-smalot-bootstrap-2-datetimepicker`
+2. `mrt add bootstrap-2-datetimepicker`
 3. For the simplest invocation:
 
 ```
