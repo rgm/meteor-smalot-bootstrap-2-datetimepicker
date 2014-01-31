@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-2-datetimepicker",
+  "description": "Meteor packaging of @smalot's bootstrap-datetimepicker",
+  "homepage": "https://github.com/rgm/meteor-smalot-bootstrap-2-datetimepicker",
+  "author": "Ryan McCuaig <ryan@ryanmccuaig.net>",
+  "version": "2.2.0",
+  "git": "https://github.com/rgm/meteor-smalot-bootstrap-2-datetimepicker"
+}
+
+
